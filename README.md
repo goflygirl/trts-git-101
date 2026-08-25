@@ -36,3 +36,9 @@ only enter the picture the moment you want to **share** that history with
 someone else — everything up to that point is 100% local.
 
 See `EXERCISES.md` to start.
+
+## Team norms
+
+- Small commits, honest messages.
+- If you're not sure whether to squash, don't.
+- Green build before you open a PR/MR.
