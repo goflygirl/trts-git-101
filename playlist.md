@@ -7,4 +7,4 @@ theoretical one.
 
 1. Daft Punk — One More Time
 2. Fleetwood Mac — Everywhere
-3. Dua Lipa — Levitating
+3. Daft Punk — One More Time
