@@ -1,7 +1,7 @@
 # TRTS Git 101 🧪
 
 Welcome! This repo is the hands-on companion for our 1-hour Git session.
-You don't need to know anything about Git going in — by the end you'll have
+You don't need to know anything about Git coming in — by the end you'll have
 made commits, opened a pull request, hit a real merge conflict, resolved
 it, rebased a branch, and reverted a mistake, all in this repo.
 
