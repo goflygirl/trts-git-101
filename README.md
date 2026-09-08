@@ -26,6 +26,7 @@ That's it. Everything else happens live.
 | `CHEATSHEET.md` | The commands, one-line explanations — keep this open in a tab |
 | `playlist.md` | Our shared "team Friday playlist" — the file we'll all edit, which is how we'll trigger a real merge conflict on purpose |
 | `.gitignore` | A real example of what to tell Git to never track |
+| `git-101.pptx` | The slide deck from the session, if you want to reference it afterward |
 
 ## The one-sentence version of Git
 
