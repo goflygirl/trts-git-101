@@ -7,4 +7,4 @@ theoretical one.
 
 1. Daft Punk — Get Lucky
 2. Fleetwood Mac — Everywhere
-3. Daft Punk — One More Time1
+3. Tralaala — One More Time1
